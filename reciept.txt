@@ -1,0 +1,8 @@
+Appetizer: $7.00
+Main Course: $14.00
+Dessert: $8.00
+Subtotal: $29.00
+===================
+Tax: $1.74
+Tip: $5.800000000000001
+Total: $36.54
